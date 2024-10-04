@@ -9,8 +9,8 @@ update @ 2024/10/04
 
 below is log and PWM waveform capture
 
-![image](https://github.com/released/MG51_PWM/master/log.jpg)
+![image](https://github.com/released/MG51_PWM/blob/main/log.jpg)
 
 
-![image](https://github.com/released/MG51_PWM/master/pwm_waveform.jpg)
+![image](https://github.com/released/MG51_PWM/blob/main/pwm_waveform.jpg)
 
